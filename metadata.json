@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Modular Platform (Laravel & Node.js MERN)",
+  "description": "Production-ready enterprise modular platform supporting dual backend architectures in Laravel 11.x (PHP 8.3 & Eloquent) and Node.js Express (MERN Stack & Mongoose), featuring comprehensive domain modules, architectural blueprints, database schemas, RESTful APIs, and live workbenches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

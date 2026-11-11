@@ -1,0 +1,1 @@
+export { ModuleDetailModal } from './ModuleDetailModal';
